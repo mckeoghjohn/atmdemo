@@ -4,6 +4,14 @@ Author : John McKeogh
 
 The following contains source for a basic Restful interface to an ATM.
 
+Prerequisite:
+Mvn 3.5.x
+Java 1.8.x
+
+To Install and Run tests:
+cd $(PROJECT_ROOT)
+mvn install
+
 To Run the service:
 cd $(PROJECT_ROOT)/rest
 mvn spring-boot:run

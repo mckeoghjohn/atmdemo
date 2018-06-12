@@ -5,7 +5,7 @@ import javax.persistence.Id;
 
 
 
-//todo: revisit this class
+//todo: revisit this class possibly restructure the lot
 @Entity
 public class Atm {
 
