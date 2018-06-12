@@ -1,4 +1,4 @@
-package atmjnj.errors;
+package atmjnj.exceptions;
 
 public class AtmResponseError {
 

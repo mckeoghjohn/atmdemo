@@ -57,8 +57,10 @@ public class Atm {
                 break;
             case 20:
                 twenty = twenty - value;
+                break;
             case 50:
                 fifty = fifty - value;
+                break;
         }
     }
 

@@ -1,10 +1,5 @@
 package atmjnj.exceptions;
 
-import atmjnj.errors.AtmResponseError;
-import atmjnj.exceptions.AccountNotFoundException;
-import atmjnj.exceptions.IncorrectPinException;
-import atmjnj.exceptions.InsufficientFundsException;
-import atmjnj.exceptions.InvalidAmountException;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
