@@ -20,13 +20,14 @@ mvn spring-boot:run
 On initialisation the service is loaded with the data in rest/src/main/resources/data.sql
 
 Account information
-AcNumber   PIN   Balance   Overdraft
-123456789  1234  800       200
-987654321  4321  1230      150
+|AcNumber  | PIN  |Balance  | Overdraft |
+|----------|------|---------|-----------|
+|123456789 |1234  |800      | 200       |
+|987654321 | 4321 | 1230    |  150      |
 
 ATM Loaded
-CASH VALUE			5     10    20   50
-NUMBER OF NOTES     20    30    30   20
+|CASH VALUE			|5  |10|20|50|
+|NUMBER OF NOTES    |20|30|30|20|
 
 
 Example restful invocations:
